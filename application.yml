@@ -2,4 +2,4 @@ spring:
   application:
     name: cloud-config-server
 config:
-  property: this is the config default value
+  property: Don't change your mind
