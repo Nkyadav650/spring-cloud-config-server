@@ -1,1 +1,3 @@
-
+second:
+  service:
+    baseurl: https://jsonplaceholder.typicode.com
