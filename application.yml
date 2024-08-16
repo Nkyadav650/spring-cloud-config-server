@@ -12,3 +12,6 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:5000/eureka
+second:
+  service:
+    baseurl: https://jsonplaceholder.typicode.com
